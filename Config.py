@@ -14,7 +14,7 @@ if ENVIRONMENT:
     # https://stackoverflow.com/questions/62688256/sqlalchemy-exc-nosuchmoduleerror-cant-load-plugin-sqlalchemy-dialectspostgre
 else:
     # Fill the Values
-    API_ID = 0
-    API_HASH = ""
-    BOT_TOKEN = ""
-    DATABASE_URL = ""
+    API_ID = 1623073
+    API_HASH = "a6f2f0a7b2022f8ca7717d9101c5ff5c"
+    BOT_TOKEN = "7450280328:AAHdx_qn1-imOcirYLiqmgDalepvb_EyDYQ"
+    DATABASE_URL = "postgresql://whisperbot_iv:ivarmone009@localhost:5432/whisper_ivbot"
